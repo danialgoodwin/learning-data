@@ -1,0 +1,87 @@
+Afghanistan: Kabul
+Argentina: Buenos Aires
+Australia: Canberra
+Austria: Vienna
+The Bahamas: Nassau
+Bangladesh: Dhaka
+Belarus: Minsk
+Belgium: Brussels
+Bolivia: La Paz, Sucre
+Brazil: Brasilia
+Canada: Ottawa
+Chile: Santiago
+China: Beijing
+Colombia: Bogota
+Costa Rica: San Jose
+Cuba: Havana
+Czech Republic: Prague
+Denmark: Copenhagen
+Djibouti: Djibouti
+Dominican Republic: Santo Domingo
+Ecuador: Quito
+Egypt: Cairo
+El Salvador: San Salvador
+Fiji: Suva
+Finland: Helsinki
+France: Paris
+Germany: Berlin
+Greece: Athens
+Haiti: Port-au-Prince
+Hungary: Budapest
+Iceland: Reykjavik
+India: New Delhi
+Indonesia: Jakarta
+Iran: Tehran
+Iraq: Baghdad
+Ireland: Dublin
+Israel: Jerusalem*
+Italy: Rome
+Jamaica: Kingston
+Japan: Tokyo
+Jordan: Amman
+Kazakhstan: Astana
+Kenya: Nairobi
+Korea, North: Pyongyang
+Korea, South: Seoul
+Kyrgyzstan: Bishkek
+Latvia: Riga
+Lebanon: Beirut
+Lithuania: Vilnius
+Luxembourg: Luxembourg
+Madagascar: Antananarivo
+Malaysia: Kuala Lumpur
+Maldives: Male
+Mexico: Mexico City
+Monaco: Monaco
+Morocco: Rabat
+Nepal: Kathmandu
+Netherlands: Amsterdam
+New Zealand: Wellington
+Nicaragua: Managua
+Norway: Oslo
+Pakistan: Islamabad
+Panama: Panama City
+Peru: Lima
+Philippines: Manila
+Poland: Warsaw
+Portugal: Lisbon
+Qatar: Doha
+Romania: Bucharest
+Russia: Moscow
+Saudi Arabia: Riyadh
+Singapore: Singapore
+Spain: Madrid
+Sweden: Stockholm
+Switzerland: Bern
+Syria: Damascus
+Taiwan: Taipei
+Turkey: Ankara
+Uganda: Kampala
+Ukraine: Kyiv
+United Arab Emirates: Abu Dhabi
+United Kingdom: London
+United States of America: Washington D.C.
+Uruguay: Montevideo
+Venezuela: Caracas
+Vietnam: Hanoi
+Yemen: Sanaa
